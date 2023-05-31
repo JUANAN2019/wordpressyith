@@ -1,0 +1,429 @@
+# Translation of Plugins - YITH Slider for page builders - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - YITH Slider for page builders - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-22 08:28:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - YITH Slider for page builders - Stable (latest release)\n"
+
+#: include/sliders.php:711
+msgid "Post creation failed, could not find original post"
+msgstr "Ha fallado la creación de la entrada. No se ha encontrado la entrada original"
+
+#: include/sliders.php:656
+msgid "No post to duplicate has been found!"
+msgstr "¡No se ha encontrado ninguna entrada para duplicar!"
+
+#: include/sliders.php:79
+msgid "< Back to parent slider"
+msgstr "< Volver al carrusel principal"
+
+#: include/sliders.php:78
+msgid "Content below the dotted line will be hidden."
+msgstr "El contenido debajo de la línea de puntos estará oculto."
+
+#: include/sliders.php:77
+msgid "Change slider height >"
+msgstr "Cambia la altura del carrusel >"
+
+#: include/sliders.php:76
+msgid "Slider height:"
+msgstr "Altura del carrusel:"
+
+#: include/class-yith-sliders-metabox.php:138
+msgid "Drag to order"
+msgstr "Arrastra para ordenar"
+
+#: include/class-yith-sliders-metabox.php:137
+msgid "Delete"
+msgstr "Borrar"
+
+#: include/class-yith-sliders-metabox.php:136
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: include/class-yith-sliders-metabox.php:135
+msgid "Edit"
+msgstr "Editar"
+
+#: include/class-yith-sliders-metabox.php:409
+msgid "fullscreen"
+msgstr "pantalla completa"
+
+#: include/class-yith-sliders-metabox.php:402
+msgid "fullwidth"
+msgstr "ancho completo"
+
+#: include/class-yith-sliders-metabox.php:388
+msgid "boxed"
+msgstr "en cajas"
+
+#: include/class-yith-sliders-metabox.php:381
+#: include/class-yith-sliders-metabox.php:395
+msgid "fluid"
+msgstr "fluido"
+
+#: include/class-yith-sliders-metabox.php:380
+msgid "Slider layout"
+msgstr "Diseño del carrusel"
+
+#: include/class-yith-sliders-metabox.php:366
+msgid "Slider content height"
+msgstr "Altura del contenido del carrusel"
+
+#: include/class-yith-sliders-metabox.php:352
+msgid "Slider content max width"
+msgstr "Ancho máximo del contenido del carrusel"
+
+#: include/class-yith-sliders-metabox.php:338
+msgid "Infinite sliding"
+msgstr "Desplazamiento infinito"
+
+#: include/class-yith-sliders-metabox.php:324
+msgid "Autoplay timing"
+msgstr "Tiempo de reproducción automática"
+
+#: include/class-yith-sliders-metabox.php:312
+#: include/class-yith-sliders-metabox.php:339
+msgid "ON"
+msgstr "ACTIVO"
+
+#: include/class-yith-sliders-metabox.php:311
+msgid "Autoplay"
+msgstr "Reproducción automática"
+
+#: include/class-yith-sliders-metabox.php:304
+msgid "style 4"
+msgstr "estilo 4"
+
+#: include/class-yith-sliders-metabox.php:268
+msgid "Bullet navigation style"
+msgstr "Estilo de navegación con viñetas"
+
+#: include/class-yith-sliders-metabox.php:261
+msgid "Prev/Next slides visible"
+msgstr "Diapositivas «Anterior/Siguiente» visibles"
+
+#: include/class-yith-sliders-metabox.php:254
+#: include/class-yith-sliders-metabox.php:297
+msgid "style 3"
+msgstr "estilo 3"
+
+#: include/class-yith-sliders-metabox.php:247
+#: include/class-yith-sliders-metabox.php:290
+msgid "style 2"
+msgstr "estilo 2"
+
+#: include/class-yith-sliders-metabox.php:233
+#: include/class-yith-sliders-metabox.php:276
+msgid "none"
+msgstr "ninguno"
+
+#: include/class-yith-sliders-metabox.php:226
+#: include/class-yith-sliders-metabox.php:240
+#: include/class-yith-sliders-metabox.php:269
+#: include/class-yith-sliders-metabox.php:283
+msgid "style 1"
+msgstr "estilo 1"
+
+#: include/class-yith-sliders-metabox.php:225
+msgid "Navigation arrows style"
+msgstr "Estilo de las flechas de navegación"
+
+#: include/class-yith-sliders-metabox.php:218
+msgid "fade"
+msgstr "desvanecer"
+
+#: include/class-yith-sliders-metabox.php:204
+#: include/class-yith-sliders-metabox.php:211
+msgid "slide"
+msgstr "deslizar"
+
+#: include/class-yith-sliders-metabox.php:204
+#: include/class-yith-sliders-metabox.php:226
+#: include/class-yith-sliders-metabox.php:269
+#: include/class-yith-sliders-metabox.php:312
+#: include/class-yith-sliders-metabox.php:325
+#: include/class-yith-sliders-metabox.php:339
+#: include/class-yith-sliders-metabox.php:353
+#: include/class-yith-sliders-metabox.php:367
+#: include/class-yith-sliders-metabox.php:381
+msgid "Default value: "
+msgstr "Valor por defecto: "
+
+#: include/class-yith-sliders-metabox.php:203
+msgid "Transition type"
+msgstr "Tipo de transición"
+
+#: include/class-yith-sliders-metabox.php:153
+msgid "Add a title and save the slider to add slides"
+msgstr "Añadir un título y guardar el carrusel para añadir diapositivas"
+
+#: include/class-yith-sliders-metabox.php:109
+msgid "Add new slide"
+msgstr "Añadir una nueva diapositiva"
+
+#: include/class-yith-sliders-metabox.php:60
+msgid "Manage slider options"
+msgstr "Gestionar las opciones del carrusel"
+
+#: include/class-yith-sliders-metabox.php:52
+msgid "Manage slides"
+msgstr "Gestionar las diapositivas"
+
+#: include/sliders.php:558
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: include/sliders.php:471
+msgid "background color"
+msgstr "color del fondo"
+
+#: include/sliders.php:454
+msgid "Background repeat"
+msgstr "Repetición del fondo"
+
+#: include/sliders.php:422
+msgid "Background position"
+msgstr "Posición del fondo"
+
+#: include/sliders.php:408
+msgid "Background size"
+msgstr "Tamaño del fondo"
+
+#: include/sliders.php:356
+msgid "Parent slider"
+msgstr "Carrusel principal"
+
+#: include/class-yith-sliders-metabox.php:68 include/sliders.php:348
+msgid "Background Settings"
+msgstr "Ajustes del fondo"
+
+#: include/sliders.php:317
+msgid "Slide post type"
+msgstr "Tipo de contenido de la diapositiva"
+
+#: include/sliders.php:313
+msgctxt "single slide background image"
+msgid "Use as background image"
+msgstr "Usar como imagen de fondo"
+
+#: include/sliders.php:312
+msgctxt "single slide background image"
+msgid "Remove background image"
+msgstr "Eliminar la imagen de fondo"
+
+#: include/sliders.php:310
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: include/sliders.php:309
+msgid "Filter Slides list"
+msgstr "Filtrar la lista de diapositivas"
+
+#: include/sliders.php:308
+msgid "Slides list navigation"
+msgstr "Navegación de la lista de diapositivas"
+
+#: include/sliders.php:307
+msgid "Slides list"
+msgstr "Lista de diapositivas"
+
+#: include/sliders.php:306
+msgid "Uploaded to this Slide"
+msgstr "Subido a esta diapositiva"
+
+#: include/sliders.php:304
+msgid "Slide not found in Trash"
+msgstr "No se ha encontrado la diapositiva en la papelera"
+
+#: include/sliders.php:303
+msgid "Slide not found"
+msgstr "Diapositiva no encontrada"
+
+#: include/sliders.php:302
+msgid "Search Slide"
+msgstr "Buscar una diapositiva"
+
+#: include/sliders.php:301
+msgid "View Slides"
+msgstr "Ver las diapositivas"
+
+#: include/sliders.php:300
+msgid "View Slide"
+msgstr "Ver la diapositiva"
+
+#: include/sliders.php:299
+msgid "Update Slide"
+msgstr "Actualizar la diapositiva"
+
+#: include/sliders.php:298
+msgid "Edit Slide"
+msgstr "Editar la diapositiva"
+
+#: include/sliders.php:297
+msgid "New Slide"
+msgstr "Nueva diapositiva"
+
+#: include/sliders.php:295 include/sliders.php:296
+msgid "Add New Slide"
+msgstr "Añadir una nueva diapositiva"
+
+#: include/sliders.php:294
+msgid "All Slides"
+msgstr "Todas las diapositivas"
+
+#: include/sliders.php:292
+msgid "Slide Attributes"
+msgstr "Atributos de la diapositiva"
+
+#: include/sliders.php:291
+msgid "Slide Archives"
+msgstr "Archivos de diapositivas"
+
+#: include/sliders.php:290 include/sliders.php:316
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: include/sliders.php:289
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: include/sliders.php:288
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: include/sliders.php:287
+msgctxt "Post Type General Name"
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: include/sliders.php:256
+msgid "Slider post type"
+msgstr "Tipo de contenido del carrusel"
+
+#: include/sliders.php:252
+msgctxt "Slider post type background image"
+msgid "Use as background image"
+msgstr "Usar como imagen de fondo"
+
+#: include/sliders.php:251
+msgctxt "Slider post type background image"
+msgid "Remove background image"
+msgstr "Eliminar la imagen de fondo"
+
+#: include/sliders.php:250 include/sliders.php:311
+msgid "Set background image"
+msgstr "Establecer la imagen de fondo"
+
+#: include/sliders.php:249
+msgid "Slider background image"
+msgstr "Imagen de fondo del carrusel"
+
+#: include/sliders.php:248
+msgid "Filter Sliders list"
+msgstr "Filtrar la lista de carruseles"
+
+#: include/sliders.php:247
+msgid "Sliders list navigation"
+msgstr "Navegación de la lista de carruseles"
+
+#: include/sliders.php:246
+msgid "Sliders list"
+msgstr "Lista de carruseles"
+
+#: include/sliders.php:245 include/sliders.php:305
+msgid "Insert into Slider"
+msgstr "Insertar en el carrusel"
+
+#: include/sliders.php:244
+msgid "Slider not found in Trash"
+msgstr "No se ha encontrado el carrusel en la papelera"
+
+#: include/sliders.php:243
+msgid "Slider not found"
+msgstr "Carrusel no encontrado"
+
+#: include/sliders.php:242
+msgid "Search Slider"
+msgstr "Buscar un carrusel"
+
+#: include/sliders.php:241
+msgid "View Sliders"
+msgstr "Ver los carruseles"
+
+#: include/sliders.php:240
+msgid "View Slider"
+msgstr "Ver el carrusel"
+
+#: include/sliders.php:239
+msgid "Update Slider"
+msgstr "Actualizar el carrusel"
+
+#: include/sliders.php:238
+msgid "Edit Slider"
+msgstr "Editar el carrusel"
+
+#: include/sliders.php:237
+msgid "New Slider"
+msgstr "Nuevo carrusel"
+
+#: include/sliders.php:235 include/sliders.php:236
+msgid "Add New Slider"
+msgstr "Añadir un nuevo carrusel"
+
+#: include/sliders.php:234
+msgid "All Sliders"
+msgstr "Todos los carruseles"
+
+#: include/sliders.php:233 include/sliders.php:293
+msgid "Parent Slider:"
+msgstr "Carrusel principal:"
+
+#: include/sliders.php:232
+msgid "Slider Attributes"
+msgstr "Atributos del carrusel"
+
+#: include/sliders.php:231
+msgid "Slider Archives"
+msgstr "Archivos del carrusel"
+
+#: include/sliders.php:230 include/sliders.php:255
+msgid "Slider"
+msgstr "Carrusel"
+
+#: include/sliders.php:229
+msgid "Sliders"
+msgstr "Carruseles"
+
+#: include/sliders.php:228
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr "Carrusel"
+
+#: include/sliders.php:227
+msgctxt "Post Type General Name"
+msgid "Sliders"
+msgstr "Carruseles"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com"
+msgstr "https://yithemes.com"
+
+#. Author of the plugin
+msgid "YITH"
+msgstr "YITH"
+
+#. Description of the plugin
+msgid "This plugin will add cool block oriented sliders to your website. Works with Block Editor."
+msgstr "Este plugin añadirá a tu web un bonito bloque orientado a carruseles. Funciona con el editor de bloques."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/yith-slider-for-page-builders/"
+msgstr "https://es.wordpress.org/plugins/yith-slider-for-page-builders/"

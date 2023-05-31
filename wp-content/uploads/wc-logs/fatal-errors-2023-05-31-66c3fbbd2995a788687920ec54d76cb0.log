@@ -1,0 +1,2 @@
+2023-05-31T10:27:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php en la línea 13
+
